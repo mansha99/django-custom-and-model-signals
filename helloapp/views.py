@@ -1,4 +1,3 @@
-from django.shortcuts import render
 from django.http import HttpResponse
 from helloapp import signals
 from django.utils import formats
